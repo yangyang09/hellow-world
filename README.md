@@ -1,3 +1,3 @@
 # hellow-world
-test
+tests
 testing for myself
